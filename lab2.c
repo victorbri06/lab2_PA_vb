@@ -9,6 +9,7 @@ int function(int x){
 }
 
 int main(){
+	//salut
 	int a=30, i=0;
 	
 	while (a>0){
